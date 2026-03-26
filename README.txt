@@ -124,7 +124,7 @@ This project follows Track A: LLM Safety / Guardrails.
 
 ## Author
 
-Bindu Sri
+Dhanyasree
 AI & Data Science Student
 Global Academy of Technology
 
