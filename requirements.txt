@@ -1,0 +1,22 @@
+# Core backend
+
+fastapi
+uvicorn
+
+# Frontend
+
+streamlit
+
+# LLM integration
+
+groq
+
+# ML / NLP
+
+transformers
+torch
+
+# Utilities
+
+requests
+pydantic
